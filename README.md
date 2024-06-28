@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Manuela
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning Python, HTML, and CSS
+- 🌱 I’m currently learning Python, HTML, CSS, JavaScript and Java.
 - 💞️ I’m looking to collaborate on entry-level projects. Open to working on simple web dev tasks using HTML, CSS, and JavaScript.
 - 📫 How to reach me - manureis.application@gmail.com
 
